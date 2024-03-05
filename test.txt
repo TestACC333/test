@@ -1,0 +1,1030 @@
+{
+    "comments": [
+        {
+            "id": "rpXhyxel20gNP9uy1qoDm",
+            "likes": 23,
+            "name": "Evan",
+            "page": "running",
+            "rating": 2,
+            "text": "Overrated. Jogging is easier and can do it for longer.",
+            "accepted_at": "2022-04-20T18:47:53.953Z"
+        },
+        {
+            "id": "FxedoOjeESolmWkwz2Wfo",
+            "likes": 25,
+            "name": "a",
+            "page": "running",
+            "rating": 1,
+            "text": "Please remove this next patch, I've seen some modded versions without it and life is a lot easier. ",
+            "accepted_at": "2022-05-12T19:41:01.182Z"
+        },
+        {
+            "id": "xUq6h28FERbXXITPG4tCA",
+            "likes": 50,
+            "name": "Czar",
+            "page": "running",
+            "rating": 3,
+            "text": "Fantastic while I could, but since my knee cartilage took a dump, it was short lived ",
+            "accepted_at": "2022-04-25T00:12:31.670Z"
+        },
+        {
+            "id": "tZqOix2X7TkD4ANo6KKCZ",
+            "likes": 25,
+            "name": "Evan",
+            "page": "running",
+            "rating": 3,
+            "text": "painful in the moment but does make you feel better later ",
+            "accepted_at": "2022-05-16T21:45:19.064Z"
+        },
+        {
+            "id": "TZ1aWCajjK72n-NLnlJ6-",
+            "likes": 15,
+            "name": "Rohin",
+            "page": "running",
+            "rating": 2,
+            "text": "I have Asthma so i can’t run for long distances",
+            "accepted_at": "2022-04-20T17:03:05.313Z"
+        },
+        {
+            "id": "P5cEmhvXq6qNbILsDLUST",
+            "likes": 197,
+            "name": "Rose",
+            "page": "running",
+            "rating": 4,
+            "text": "Won races using this technique, on the downside left me sore",
+            "accepted_at": "2022-04-18T03:50:17.841Z"
+        },
+        {
+            "id": "S_y_P2bATQ56kRJbb8PcL",
+            "likes": 15,
+            "name": "Mason",
+            "page": "running",
+            "rating": 3,
+            "text": "Absolutely loath while doing it, but I enjoy the burned calories.",
+            "accepted_at": "2022-04-22T14:23:09.913Z"
+        },
+        {
+            "id": "mLheRsOVXaCAgZWiHeA-Y",
+            "likes": 19,
+            "name": "Reid",
+            "page": "running",
+            "rating": 4,
+            "text": "I love running but its so tiring",
+            "accepted_at": "2022-04-18T16:16:10.619Z"
+        },
+        {
+            "id": "xxjck2L7ogrDQdZCIIvzA",
+            "likes": 12,
+            "name": "Anxious loser",
+            "page": "running",
+            "rating": 1,
+            "text": "Got ridiculed when I was early on into the game for being slow. Can you please make me fast?",
+            "accepted_at": "2022-04-19T18:05:10.017Z"
+        },
+        {
+            "id": "rE4YlxtlG_aNYdIvvDnrH",
+            "likes": 25,
+            "name": "Jay",
+            "page": "running",
+            "rating": 3,
+            "text": "get tired too quickly and within 2 mins you can feel all your injuries ",
+            "accepted_at": "2022-04-18T18:22:09.787Z"
+        },
+        {
+            "id": "I7_TDQCFiJDyjyQ47Y0lp",
+            "likes": 38,
+            "name": "Gab",
+            "page": "running",
+            "rating": 2,
+            "text": "Makes me too tired :/\nNext running update: make sure you can run without getting tired?",
+            "accepted_at": "2022-04-18T13:22:28.327Z"
+        },
+        {
+            "id": "IZ142MyR912boOwaaoYGS",
+            "likes": 24,
+            "name": "Anoyocto",
+            "page": "running",
+            "rating": 4,
+            "text": "Remove stamina penalty and it's popularity will skyrocket.",
+            "accepted_at": "2022-04-20T20:28:53.976Z"
+        },
+        {
+            "id": "fF627msIxbqe64jPX3EaN",
+            "likes": 459,
+            "name": "Emily",
+            "page": "running",
+            "rating": 1,
+            "text": "Devs need to make me faster and give me more stamina",
+            "accepted_at": "2022-04-21T17:40:40.209Z"
+        },
+        {
+            "id": "uIqnXVq85XF2sPCnuAVIu",
+            "likes": 31,
+            "name": "Jaxon",
+            "page": "running",
+            "rating": 5,
+            "text": "I was created with long legs, so my strides are legendary. Thanks devs!",
+            "accepted_at": "2022-04-20T14:29:45.430Z"
+        },
+        {
+            "id": "uW4Aa5YorNqAJNcGw6Lyq",
+            "likes": 11,
+            "name": "Anoocto",
+            "page": "running",
+            "rating": 4,
+            "text": "Remove stammina drawback.",
+            "accepted_at": "2022-04-20T12:12:57.847Z"
+        },
+        {
+            "id": "R2njTqc5x-CTeZyqQevKs",
+            "likes": 27,
+            "name": "Anthony",
+            "page": "running",
+            "rating": 3,
+            "text": "I don’t have a ton of stamina",
+            "accepted_at": "2022-04-19T21:04:45.487Z"
+        },
+        {
+            "id": "WOchbQTyw0vqw4t6aoBd9",
+            "likes": 13,
+            "name": "Nagisa",
+            "page": "running",
+            "rating": 2,
+            "text": "Personally not so much of a fan. My cardio stats just aren't built for this kind of activity",
+            "accepted_at": "2022-05-20T18:01:40.903Z"
+        },
+        {
+            "id": "kNpt0tRtl1mldWJldDyRr",
+            "likes": 33,
+            "name": "plop",
+            "page": "running",
+            "rating": 5,
+            "text": "efficient way of speed-walking",
+            "accepted_at": "2022-05-17T16:53:13.341Z"
+        },
+        {
+            "id": "NFS15N-D0WQJBZ5v5ZO8K",
+            "likes": 27,
+            "name": "Ash",
+            "page": "running",
+            "rating": 1,
+            "text": "I just don't like movement in generally, we should be able to teleport.  Walking is too slow and running hurts and makes me have to breath more.  Maybe I'd run if it was easier.",
+            "accepted_at": "2022-05-20T03:30:00.947Z"
+        },
+        {
+            "id": "TVcatnl1L-dJtv-ZqVoGQ",
+            "likes": 36,
+            "name": "yeltsa kcir",
+            "page": "running",
+            "rating": 2,
+            "text": "Helps me walk faster, but uses up a lot of stamina. It uses even more stamina when running uphill which is just an absolute scam.",
+            "accepted_at": "2022-05-23T16:15:33.159Z"
+        },
+        {
+            "id": "aT1I_sO52HhzeQzgRXpNd",
+            "likes": 15,
+            "name": "Michael",
+            "page": "running",
+            "rating": 2,
+            "text": "There are much better ways to traverse the map quickly, and there are much more enjoyable minigames that boost the fitness skill just as well if not better.",
+            "accepted_at": "2022-04-24T21:29:22.232Z"
+        },
+        {
+            "id": "PVkE7byLV153JKxx-HpJO",
+            "likes": 35,
+            "name": "Maddy",
+            "page": "running",
+            "rating": 1,
+            "text": "Seems like a good idea but after the first few minutes my lungs start burning",
+            "accepted_at": "2022-07-09T03:37:37.974Z"
+        },
+        {
+            "id": "gmRtiqMhBDf2szTdoxWVQ",
+            "likes": 31,
+            "name": "Mike",
+            "page": "running",
+            "rating": 1,
+            "text": "Waste of time!  All other modes of transportation with the exception of pogo stick are much faster and more efficient.",
+            "accepted_at": "2022-05-12T19:35:24.747Z"
+        },
+        {
+            "id": "PRECdOGwnP5kxTqZQF-rv",
+            "likes": 35,
+            "name": "Karissa",
+            "page": "running",
+            "rating": 5,
+            "text": "Running is so much fun. It's a good way to boost your avatar's cardio points and increase your speed attribute. ",
+            "accepted_at": "2022-07-04T02:23:31.976Z"
+        },
+        {
+            "id": "N8P8Cm7zeNqOBT0felpux",
+            "likes": 18,
+            "name": "Saige❤",
+            "page": "running",
+            "rating": 3,
+            "text": "It's more efficient and it's good exercise. Gets your cardio going. Gets you places faster, just tiring easily. I especially hate it when coaches make you run.",
+            "accepted_at": "2022-04-18T14:16:53.847Z"
+        },
+        {
+            "id": "Yu93vyb5n3M9b9E85pR_p",
+            "likes": 27,
+            "name": "Jak",
+            "page": "running",
+            "rating": 3,
+            "text": "nice for transportation but i have the asthma debuff",
+            "accepted_at": "2022-04-21T17:16:36.084Z"
+        },
+        {
+            "id": "pmt-lkCcM6l_bBK2qGdbF",
+            "likes": 27,
+            "name": "Shishcabub",
+            "page": "running",
+            "rating": 3,
+            "text": "Not practical in the current meta. Indulge in capitalism and buy some Heelys.",
+            "accepted_at": "2022-08-12T13:27:53.593Z"
+        },
+        {
+            "id": "q-Ghj-Zl3w6sf2p5Ubj0Y",
+            "likes": 32,
+            "name": "Eric",
+            "page": "running",
+            "rating": 3,
+            "text": "Honestly just needs a buff. Maybe a 30% increase to speed, without increasing exhaustion gain.",
+            "accepted_at": "2022-08-04T17:00:17.515Z"
+        },
+        {
+            "id": "KGpeD4yia1UgrVZK1FXzq",
+            "likes": 28,
+            "name": "Kai",
+            "page": "running",
+            "rating": 1,
+            "text": "I have a problem with this, even with full stamina, I can't get past the first 5 laps without getting drained. I've trained using all the options, and I've even taken side quests from Ms. Physica (gym teacher npc), but nothing seems to work and I can't beat the game. Would give 0 stars if i could.",
+            "accepted_at": "2022-08-03T02:08:51.099Z"
+        },
+        {
+            "id": "4T6PLjwu9sut7_t4e9k7k",
+            "likes": 37,
+            "name": "Hazza",
+            "page": "running",
+            "rating": 1,
+            "text": "It's faster than walking but it can drain your stamina like crazy then you have to rest, by which point you could have moved a longer distance if you'd have walked.",
+            "accepted_at": "2022-07-20T14:32:32.284Z"
+        },
+        {
+            "id": "2mFPWWP9wl8OYikoXgt1J",
+            "likes": 15,
+            "name": "joe",
+            "page": "running",
+            "rating": 3,
+            "text": "good feature but the sweating part should be reworked",
+            "accepted_at": "2022-04-19T18:27:41.720Z"
+        },
+        {
+            "id": "BQ9TTCnuyLJcjW2sbP63n",
+            "likes": 21,
+            "name": "Charlatte",
+            "page": "running",
+            "rating": 1,
+            "text": "my motto is: the only time to run is when you are running away from something <3\nIt makes you tired and thirsty.\nWhat'a the point?\nIf u want 2 be buff lift some weights",
+            "accepted_at": "2022-06-15T18:43:36.179Z"
+        },
+        {
+            "id": "BP2leXVk9OHRaR8UPiJtN",
+            "likes": 21,
+            "name": "Din",
+            "page": "running",
+            "rating": 4,
+            "text": "I like the feature that lets you upgrade your stats the more you use them, the only thing I don't like is the fact that this feature only works well up until 20 years or so of using it.",
+            "accepted_at": "2022-09-29T01:36:40.432Z"
+        },
+        {
+            "id": "ObqGTEXmHj-_wDc-meSDO",
+            "likes": 37,
+            "name": "Simulation tester 3",
+            "page": "running",
+            "rating": 3,
+            "text": "It is a great way to travel, but I hate the glitch that has affected me, the glitch is when you have very low stamina and gain stamina slowly, before the simulation ended we called it asthma ",
+            "accepted_at": "2022-10-02T16:55:42.280Z"
+        },
+        {
+            "id": "-CgUu4eWXppf3I5W2tZqF",
+            "likes": 26,
+            "name": "Nelson",
+            "page": "running",
+            "rating": 4,
+            "text": "It's good for leveling yourself up, but there's this hidden stat called cartilage that turns out to be very important, and if you abuse the mechanic too much apparently you get a negative number. Luckily a doctor can give you a buff, but new players should be wary of grinding with this method.",
+            "accepted_at": "2022-10-08T03:05:46.291Z"
+        },
+        {
+            "id": "6eFoApzNZLlHFlbrM8HCO",
+            "likes": 30,
+            "name": "bro",
+            "page": "running",
+            "rating": 4,
+            "text": "An excellent way to get around. The thing keeping it from a 5-star rating is the low recovery rate depending on your \"weight\". Overall, I recommend it to any earth people.",
+            "accepted_at": "2022-10-09T20:45:36.324Z"
+        },
+        {
+            "id": "jRyr00_Pzt6U6D3Jb2oOd",
+            "likes": 23,
+            "name": "Danielle",
+            "page": "running",
+            "rating": 4,
+            "text": "Running. My avatar loves running. But then asthma comes like a rainstorm on the beach...",
+            "accepted_at": "2022-06-20T17:17:54.175Z"
+        },
+        {
+            "id": "VbZy-kpvBxUovjj0W1_ZA",
+            "likes": 32,
+            "name": "Eh",
+            "page": "running",
+            "rating": 2,
+            "text": "Amazing for working out and trying to lose weight, but one word;cramps. Super tiring, painful in the long run, and awkward when you run into strangers.",
+            "accepted_at": "2022-05-26T03:20:45.488Z"
+        },
+        {
+            "id": "JjMHXLDzuF2XpnaSwzlgd",
+            "likes": 15,
+            "name": "mary",
+            "page": "running",
+            "rating": 3,
+            "text": "great way to cut down the time it takes to just get around, but the idea of it as a sport was not well thought out",
+            "accepted_at": "2022-07-11T02:12:46.167Z"
+        },
+        {
+            "id": "6ceGiLIqKmiaPLKSNmrsq",
+            "likes": 29,
+            "name": "[REDACTED]",
+            "page": "running",
+            "rating": 2,
+            "text": "Although good for pumping blood and staying fit, it is tiring and not good for certain people; They should have made other forms of staying fit rather than this mess",
+            "accepted_at": "2022-10-23T01:41:29.965Z"
+        },
+        {
+            "id": "bWNNCo99ajyLMm3i3qRMV",
+            "likes": 27,
+            "name": "Um",
+            "page": "running",
+            "rating": 3,
+            "text": "Fun cardio. Yet wish it was unnecessary. The feature wastes too much energy and player just feels angry after. ",
+            "accepted_at": "2022-10-29T03:37:21.228Z"
+        },
+        {
+            "id": "PNCA1KviP_1EKO-_ggCBS",
+            "likes": 26,
+            "name": "slayer",
+            "page": "running",
+            "rating": 5,
+            "text": "I do love running, but maybe you could make it a little less boring?",
+            "accepted_at": "2022-11-13T04:09:22.065Z"
+        },
+        {
+            "id": "kwLEXKPOIUclNLNVg0_kl",
+            "likes": 14,
+            "name": "JB",
+            "page": "running",
+            "rating": 2,
+            "text": "It feels like everyone around me can run for miles while even a mile is tough for me. Seems like some have unlocked runners high to gain that ability. I'd also rate it higher if running could beat out faster vehicles.",
+            "accepted_at": "2022-11-19T04:58:20.688Z"
+        },
+        {
+            "id": "JdNLnLLhLbD7xK6IYzUWi",
+            "likes": 41,
+            "name": "Fish",
+            "page": "running",
+            "rating": 4,
+            "text": "Has all the qualities of a good local transportation method, EXCEPT for the stink! You can get places fast, carry small items, no parking necessary, depart whenever is convenient, BUT when you arrive, you are not presentable (stink to high heaven). Would be so practical for everyday commute if no Stink. Four out of five stars for lost potential.",
+            "accepted_at": "2022-04-24T20:22:46.776Z"
+        },
+        {
+            "id": "JUNNacm8U1pxAJS92lpnY",
+            "likes": 17,
+            "name": "Brad",
+            "page": "running",
+            "rating": 4,
+            "text": "You feel amazing afterwards, but perhaps not so great during. 4 stars",
+            "accepted_at": "2022-04-20T19:00:02.056Z"
+        },
+        {
+            "id": "H7TZ93h7McToZ1Roc-xfZ",
+            "likes": 27,
+            "name": "Caleb",
+            "page": "running",
+            "rating": 4,
+            "text": "I love the concept, and in the earlier stages of the simulation it's really fun, but the difficulty curve as the simulation progresses added with the side stitch bug means I can't see it as viable late game",
+            "accepted_at": "2022-08-11T02:19:11.532Z"
+        },
+        {
+            "id": "Khk8eF6wRfUAtIikBn4KJ",
+            "likes": 77,
+            "name": "Sarah",
+            "page": "running",
+            "rating": 1,
+            "text": "I want to have a stern chat with the person who invented running. ",
+            "accepted_at": "2022-06-08T02:23:19.912Z"
+        },
+        {
+            "id": "SHP0GoHffUE1bwdUxJRIH",
+            "likes": 77,
+            "name": "ElvenPotato",
+            "page": "running",
+            "rating": 4,
+            "text": "The exhaustion is ok, but please, is the lung pain really necessary? And the dehydration? I think those need a nerf.",
+            "accepted_at": "2022-12-31T05:32:36.844Z"
+        },
+        {
+            "id": "UNchAKzntihsbC4Wl51Y3",
+            "likes": 46,
+            "name": "Emily",
+            "page": "running",
+            "rating": 1,
+            "text": "I have no clue who decided this was even close to a \"good idea\", but I hate it.  If I had to run to keep my life I would rather die. If you were going to make running a thing, make sure it's something everyone can do thank you.",
+            "accepted_at": "2022-08-03T20:46:17.876Z"
+        },
+        {
+            "id": "lgCOAKRXq96rJsmOKfUYI",
+            "likes": 80,
+            "name": " ",
+            "page": "running",
+            "rating": 3,
+            "text": "Overall quite handy but this ability seems to lag when I am being chased by a monster in my nightmares.",
+            "accepted_at": "2022-08-26T02:42:56.278Z"
+        },
+        {
+            "id": "o8nDeXeklWMy1xPtZeZzp",
+            "likes": 52,
+            "name": "Solomon",
+            "page": "running",
+            "rating": 4,
+            "text": "Great for boosting fitness attribute, though theres a glitch where if you use the talk option on the friend NPC, the P.E Teacher NPC will make you do this fifty times around a circular floor pattern, please patch this.",
+            "accepted_at": "2022-07-12T17:13:39.263Z"
+        },
+        {
+            "id": "xLaTj_znbzW8y77VJI8L8",
+            "likes": 51,
+            "name": "(っ◔◡◔)っ ♥ Alien thoughts ♥",
+            "page": "running",
+            "rating": 2,
+            "text": "Why do humans do this. It pumps your blood faster, it also makes you feel like your gonna die if you do it too much. Also, fix glitch where I can't run the dam mile in PE class.",
+            "accepted_at": "2022-10-21T19:05:40.387Z"
+        },
+        {
+            "id": "GusSfKzfd5_AXV92wKL1g",
+            "likes": 43,
+            "name": "Jannik",
+            "page": "running",
+            "rating": 3,
+            "text": "I like the adrenaline rush, but cant really run fast. Please make an update where everyone runs as fast as Usain Bolt",
+            "accepted_at": "2022-11-20T03:36:00.262Z"
+        },
+        {
+            "id": "FkvRg4I4vd6KtUN3trAbd",
+            "likes": 13,
+            "name": "A human",
+            "page": "running",
+            "rating": 3,
+            "text": "Running is good for your body, and it's a good way to enjoy nature. But for me personally, it's really boring and demoralizing. Running mile after mile after mile. I feel great after I'm done though",
+            "accepted_at": "2022-12-17T20:25:47.491Z"
+        },
+        {
+            "id": "ANX32_y6Naw_t6J3Ue5Gp",
+            "likes": 72,
+            "name": "Matt",
+            "page": "running",
+            "rating": 3,
+            "text": "Pretty legit but please fix the glitch where i have an asma attack ",
+            "accepted_at": "2022-05-18T18:26:33.784Z"
+        },
+        {
+            "id": "5loTgQDA1Hf1wHizp_PKm",
+            "likes": 70,
+            "name": "L",
+            "page": "running",
+            "rating": 1,
+            "text": "Running in PE is the WORST. While some kids are marathon runners, I can barely run a lap.",
+            "accepted_at": "2022-06-20T17:49:27.988Z"
+        },
+        {
+            "id": "N-PwN-D6YupN6Rnrxpy7W",
+            "likes": 38,
+            "name": "Molly. B. Rizzenemup",
+            "page": "running",
+            "rating": 2,
+            "text": "Its been 2,023 years, and the sweat bug hasn't been patched. The only upside at this point is the fact you can get somewhere faster. L on you, devs.",
+            "accepted_at": "2023-02-04T01:53:04.561Z"
+        },
+        {
+            "id": "kPYbXWUD-FB29Db5sOe2Y",
+            "likes": 17,
+            "name": "Professional Earth Critic",
+            "page": "running",
+            "rating": 3,
+            "text": "Running as a very efficient way to get to the locations you need. Running is faster than walking, however, running, unlike walking, slowly decreases stamina, which is good for players with lots of it, but for casual players with not much stamina, it can be a great burden, you also trip easier while running. Viable story path in career mode",
+            "accepted_at": "2022-11-19T20:01:34.192Z"
+        },
+        {
+            "id": "BgFm-jvMGqlH7Po8Rmqky",
+            "likes": 28,
+            "name": "Yoshi",
+            "page": "running",
+            "rating": 4,
+            "text": "Although running is a vital game function, once you unlock the CAR or BIKE, or even make enough ingame currency to travel on public transport, it kinda gets irrelevant. To me, I prefer walking.",
+            "accepted_at": "2022-12-11T02:46:07.420Z"
+        },
+        {
+            "id": "FXUxliAVm9wMSlkDJ6rZ9",
+            "likes": 53,
+            "name": "Alexander",
+            "page": "running",
+            "rating": 4,
+            "text": "Was a crucial feature during the beta phase, but with the existence of other transportations, it becomes a very underrated feature. Along with this, our endurance has fallen, making us feel tiresome after just running a couple of meters.",
+            "accepted_at": "2022-09-10T16:31:35.828Z"
+        },
+        {
+            "id": "d0cZc7ultqSNUhlFQe4GP",
+            "likes": 38,
+            "name": "Claire",
+            "page": "running",
+            "rating": 2,
+            "text": "Practical for moving quickly around the map but the stamina rate is terrible. I think my game is lagging because every time I level up, I don't get the promised stamina boost. ",
+            "accepted_at": "2023-02-04T02:31:24.698Z"
+        },
+        {
+            "id": "yxEkC4W0pUbDwxgK4H9et",
+            "likes": 81,
+            "name": "Jlive",
+            "page": "running",
+            "rating": 3,
+            "text": "Make it the first pain of the day and your day can only get better",
+            "accepted_at": "2022-05-03T22:51:14.732Z"
+        },
+        {
+            "id": "gKh1CDwXhJOjJyP36iY6i",
+            "likes": 35,
+            "name": "Madeline",
+            "page": "running",
+            "rating": 3,
+            "text": "Nice experience for the first 3 minutes, but then you feel like the wind is trying to suck your lungs out and your insides burn. Could we remove this feature in the next update?",
+            "accepted_at": "2022-07-04T04:10:19.046Z"
+        },
+        {
+            "id": "PdBzXFZZifhzKylcv16hh",
+            "likes": 27,
+            "name": "CloudVictor",
+            "page": "running",
+            "rating": 2,
+            "text": "Can we eliminate the frigid wind shooting up our character's nostrils please? My character is now gasping for breath and has automatically turned back on its own to the house again...",
+            "accepted_at": "2022-06-15T19:34:24.524Z"
+        },
+        {
+            "id": "gThOi0F99JFe2HFXudC7m",
+            "likes": 71,
+            "name": "Lily ",
+            "page": "running",
+            "rating": 5,
+            "text": "Running is a great way to get exercise but there are alternative ways to get cardio in. So, it's not necessary, but it's pretty enjoyable once you get into the habit.",
+            "accepted_at": "2023-01-08T19:32:22.634Z"
+        },
+        {
+            "id": "WeOyL6nfVfrJSJC12NKnH",
+            "likes": 24,
+            "name": "Daddy",
+            "page": "running",
+            "rating": 5,
+            "text": "Anyone that doesn't rate this at least a 4 star is a fat, 500 LBS, discord moderator who eats potato chips and pizza all day with no self esteam.",
+            "accepted_at": "2022-12-17T03:53:51.114Z"
+        },
+        {
+            "id": "zTQO5yDaLxQeLo3kAtDv4",
+            "likes": 36,
+            "name": "Kay",
+            "page": "running",
+            "rating": 1,
+            "text": "if i could rate this 0 stars, i would. this was a HORRIBLE experience for my avatar. It results in heavy breathing, rapid heart beat, and precipitation. I think that running should be reinvented, slower. ",
+            "accepted_at": "2022-06-29T03:39:01.832Z"
+        },
+        {
+            "id": "wIWGeThQ30PtHmWbBBbuV",
+            "likes": 59,
+            "name": "Molly",
+            "page": "running",
+            "rating": 3,
+            "text": "Enjoyable. I'm not sure if it is a glitch or bug but please fix the fact that my energy rapidly decreases whenever I begin this activity.",
+            "accepted_at": "2022-08-18T04:15:28.112Z"
+        },
+        {
+            "id": "c6BRQMxZv-0u6Snp83zuc",
+            "likes": 297,
+            "name": "Avery",
+            "page": "running",
+            "rating": 5,
+            "text": "Running feels like freedom, at least to me",
+            "accepted_at": "2023-02-12T05:59:47.917Z"
+        },
+        {
+            "id": "Py86TNvzsuBa6wB7RMA5Q",
+            "likes": 63,
+            "name": "Running is good",
+            "page": "running",
+            "rating": 4,
+            "text": "Running is a good outside activity to do for exercise. But if you run too long without water, you will die from dehydration.",
+            "accepted_at": "2023-02-05T05:02:02.759Z"
+        },
+        {
+            "id": "UwvgNagSSDVlTh57YWcA5",
+            "likes": 351,
+            "name": "nameless bob",
+            "page": "running",
+            "rating": 5,
+            "text": "It's very helpful when you are getting away from the police or chasing someone who tried to steal your money",
+            "accepted_at": "2022-08-27T14:03:48.036Z"
+        },
+        {
+            "id": "1EMg0m6zFqK9NpecJ5-bs",
+            "likes": 23,
+            "name": "Nobody",
+            "page": "running",
+            "rating": 5,
+            "text": "Easy exercise! No need to spend money if you already have good running shoes!  Just...go to Goodwill or something. Since I love running, I've become fond of joining track and field and now I'm loved by my school. It makes you feel accomplished and satisfied with all the attention just from freaking RUNNING. ",
+            "accepted_at": "2022-04-20T02:58:41.469Z"
+        },
+        {
+            "id": "VNI_exMtidcC-Ug9uJqg5",
+            "likes": 516,
+            "name": "Yes",
+            "page": "running",
+            "rating": 4,
+            "text": "I question how the NPCs in the \"Olympics\" clips use this so much and really hard and don't lose all their energy",
+            "accepted_at": "2023-02-26T17:45:55.914Z"
+        },
+        {
+            "id": "m_Y3EF0PUYGfZdfqHXaKu",
+            "likes": 31,
+            "name": "timmy",
+            "page": "running",
+            "rating": 1,
+            "text": "The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. [beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. The test will begin on the word start. On your mark, get ready, start.",
+            "accepted_at": "2022-04-21T01:20:45.720Z"
+        },
+        {
+            "id": "Ck4umpHWc2PN45XP0g3fH",
+            "likes": 311,
+            "name": "quandale",
+            "page": "running",
+            "rating": 2,
+            "text": "Anyone else always feel like you need to take a poop in the middle of a run?🤨",
+            "accepted_at": "2022-12-02T04:00:42.967Z"
+        },
+        {
+            "id": "nCyFzr9bVjG5ieTroRllM",
+            "likes": 92,
+            "name": "Brickman31239",
+            "page": "running",
+            "rating": 5,
+            "text": "Literally the best form of movement without using cars and stuff like that. You can also escape other players trying to kill you and get an \"Adrenaline\" buff which lowers all pain and increases your stamina until you are no longer being chased.",
+            "accepted_at": "2023-02-04T02:09:59.463Z"
+        },
+        {
+            "id": "ClvJzYwl4c6nly60ZV6RV",
+            "likes": 32,
+            "name": "Lucas",
+            "page": "running",
+            "rating": 2,
+            "text": "Needs a patch, good start but still feels beta. Hurts in muscles not related to the legs, sometimes the knees crash and run.exe stopped working for 3 weeks.\nI'll change my review when there is an update",
+            "accepted_at": "2022-05-21T03:50:52.803Z"
+        },
+        {
+            "id": "OPprs7imsJSrRZFDzgyge",
+            "likes": 823,
+            "name": "Olly",
+            "page": "running",
+            "rating": 1,
+            "text": "The developers made me slow",
+            "accepted_at": "2022-04-18T20:45:54.432Z"
+        },
+        {
+            "id": "OMMy51Bp6NpVAS-224rau",
+            "likes": 137,
+            "name": "Zac",
+            "page": "running",
+            "rating": 4,
+            "text": "Why isn’t flying out yet like are you adding it the the 2023 update or the 2024 update?",
+            "accepted_at": "2023-01-13T02:40:39.132Z"
+        },
+        {
+            "id": "RswZPXOUSAVw-ZhvTDvR6",
+            "likes": 109,
+            "name": "Someone",
+            "page": "running",
+            "rating": 3,
+            "text": "Running is fine, but please remove the \"Getting Tired\" bug, it annoys me when I'm in a race with some NPCs and suddenly the tired bug kicks in ",
+            "accepted_at": "2022-12-23T21:46:17.576Z"
+        },
+        {
+            "id": "N_Ol8ScKo1RDPUkSHc5Wm",
+            "likes": 99,
+            "name": "Book",
+            "page": "running",
+            "rating": 1,
+            "text": "Running is overrated. Sure, you can run away from danger, and run to class if you are late. But, the unnatural feeling that you are running out of air after you have been forced to run a mile for PE class is unmistakeably horrid.",
+            "accepted_at": "2022-11-27T04:03:03.576Z"
+        },
+        {
+            "id": "HQ5nvyNdZ3n4w08SdyGRk",
+            "likes": 66,
+            "name": "The concept of time",
+            "page": "running",
+            "rating": 2,
+            "text": "It would be much more likable if the transition between sprint and stamina was smoother. The glitch where your lungs ache and your throat feels cold and hot at the same time makes the game completely unplayable. If you could make oxygen distribution easier afterwards I would do this minigame much more. ",
+            "accepted_at": "2023-01-08T19:26:19.227Z"
+        },
+        {
+            "id": "ZKT9HJ13vRtQMqrFXqA8Z",
+            "likes": 1327,
+            "name": "Pizza sauce",
+            "page": "running",
+            "rating": 1,
+            "text": "Unfortunately I was born with the glitch that is asthma, so I personally hate this feature",
+            "accepted_at": "2022-04-18T15:26:07.665Z"
+        },
+        {
+            "id": "wBq03QuPVRMvDbclahGIT",
+            "likes": 106,
+            "name": "Abby",
+            "page": "running",
+            "rating": 5,
+            "text": "Great. I love running, the wind in my face, it's all so fun. *Me writing this while wearing my school's track and field t-shirt AND sweatshirt*",
+            "accepted_at": "2022-05-03T00:20:01.688Z"
+        },
+        {
+            "id": "bYEakUP-iGVV7EM1Yr0ch",
+            "likes": 171,
+            "name": "lidia",
+            "page": "running",
+            "rating": 5,
+            "text": "clears my mind of anxiety",
+            "accepted_at": "2022-04-30T20:33:33.453Z"
+        },
+        {
+            "id": "YYptRA2mpRgsQvvRDQo9v",
+            "likes": 999,
+            "name": "Emmett ",
+            "page": "running",
+            "rating": 5,
+            "text": "Why can’t we just fly or something ",
+            "accepted_at": "2022-04-20T12:40:11.220Z"
+        },
+        {
+            "id": "AOXZJPa-5DddpeJ3l6Dvp",
+            "likes": 20,
+            "name": "Zy",
+            "page": "running",
+            "rating": 4,
+            "text": "Definitely one of the superior skills added to the Human class, that combined with our Endurance stat's gives us a startling advantage in Hunting though with the new meta of long-distance weapons that use is kind of obsolete. ",
+            "accepted_at": "2022-09-09T02:02:30.361Z"
+        },
+        {
+            "id": "5ouz7fTCYC65HucL3_aiX",
+            "likes": 29,
+            "name": "Marlick",
+            "page": "running",
+            "rating": 3,
+            "text": "Allows you to go fast for short periods of time, needs a huge buff and remove the shortness of breath debuff please ",
+            "accepted_at": "2023-01-07T21:22:19.364Z"
+        },
+        {
+            "id": "-xtmBZq8rGLBAifNHJcGU",
+            "likes": 168,
+            "name": "Ethan",
+            "page": "running",
+            "rating": 3,
+            "text": "Good idea but for the next update replace sidewalks with those little flat escalator things they have at the airport ",
+            "accepted_at": "2022-08-18T04:45:53.182Z"
+        },
+        {
+            "id": "RJ8MUh_f6ZUKlyp6B4TTD",
+            "likes": 4,
+            "name": "Jay",
+            "page": "running",
+            "rating": 2,
+            "text": "Exhausting, but is an efficient way to travel, especially for sport or exercise.",
+            "accepted_at": "2022-04-18T13:09:04.290Z"
+        },
+        {
+            "id": "ZONiSvd5YNdNWumDbjubS",
+            "likes": 15,
+            "name": "Someone",
+            "page": "running",
+            "rating": 3,
+            "text": "Running is fine, but please remove the \"Getting Tired\" bug, it annoys me when I'm in a race with some NPCs and suddenly the tired bug kicks in ",
+            "accepted_at": "2022-12-17T04:36:27.075Z"
+        },
+        {
+            "id": "xhe1CMiyLTSsbW2y69CVF",
+            "likes": 11,
+            "name": "jaliyah",
+            "page": "running",
+            "rating": 2,
+            "text": "it makes me sleepy\n",
+            "accepted_at": "2022-04-20T00:50:21.751Z"
+        },
+        {
+            "id": "HNb9ATFhVj0O4QGCIKV2Q",
+            "likes": 7,
+            "name": "TheEmeraldSword",
+            "page": "running",
+            "rating": 4,
+            "text": "It's amazing for the thrilling velocity you can gain, but it's a shame it's not very efficient, if you \"break it in\" you can last longer, but I wish I could run 12MPH for hours on end.",
+            "accepted_at": "2022-11-12T05:16:20.759Z"
+        },
+        {
+            "id": "lCq7ToWB3bqyv2vFYmFQn",
+            "likes": 48,
+            "name": "ur mom",
+            "page": "running",
+            "rating": 4,
+            "text": "I personally kind of like running because I do track, but hey, I know there are some people out there who don't...and that percentage is alot of people.",
+            "accepted_at": "2023-01-22T03:45:40.956Z"
+        },
+        {
+            "id": "h7g0U47YjMeUGH-yvI4rR",
+            "likes": 101,
+            "name": "Name then what?",
+            "page": "running",
+            "rating": 1,
+            "text": "Every time I level up, my stamina gets lower. I don't know if this is a glitch, but I would rather ride a car.",
+            "accepted_at": "2023-02-05T04:58:35.029Z"
+        },
+        {
+            "id": "5_4Mqnqbp1CKGXw7gLa4n",
+            "likes": 115,
+            "name": "Ssphil",
+            "page": "running",
+            "rating": 3,
+            "text": "It's 2023 and I am still waiting for the stamina boost update, and there seems to be a glitch in the system, where running directly after a meal results in side splitting pain - when will you fix the bug?",
+            "accepted_at": "2023-01-23T03:34:32.961Z"
+        },
+        {
+            "id": "nvZDPRBHPhI6hPZRdy28E",
+            "likes": 216,
+            "name": "Geoffry",
+            "page": "running",
+            "rating": 1,
+            "text": "Really enjoy running feature, but please fix the glitch where the character heels over and dies. It’s hard to maneuver the map without the sprint feature.",
+            "accepted_at": "2023-02-17T20:06:57.628Z"
+        },
+        {
+            "id": "tae0DUg6xapBcj6rAUMC7",
+            "likes": 402,
+            "name": "Robyn",
+            "page": "running",
+            "rating": 1,
+            "text": "Disgraceful for your avatar, unless done constantly. Makes avatar tired, and, makes them lose ENERGY POINTS!",
+            "accepted_at": "2023-02-19T02:05:59.270Z"
+        },
+        {
+            "id": "5VD5_2ET5e8rt99se7cp7",
+            "likes": 84,
+            "name": "Fool",
+            "page": "running",
+            "rating": 4,
+            "text": "I like running a lot, especially with friends. The only problem is when my lungs stop working, leading me to cripple over in an embarrassing little wobble-run in front of everyone on the team. It's really great at important practices and races, too. 4/5 mostly enjoyable",
+            "accepted_at": "2023-02-12T04:24:17.445Z"
+        },
+        {
+            "id": "oCakHrDkUAjlld70uXpTW",
+            "likes": 72,
+            "name": "Dude",
+            "page": "running",
+            "rating": 3,
+            "text": "It’s a great alternative to walking as long as you have your stamina charged up. One downside of it however is this glitch called tripping where it takes away some of your HP and forces you into the laying down emote. I also think it needs an update because it takes way to much stamina for how small the stamina bar is.",
+            "accepted_at": "2023-01-14T19:39:40.979Z"
+        },
+        {
+            "id": "f9Sz1OQrsFSCOKHe0sIbG",
+            "likes": 415,
+            "name": "Too Too",
+            "page": "running",
+            "rating": 4,
+            "text": "It's good when escaping, but not where you're chasing.",
+            "accepted_at": "2022-04-20T22:06:26.608Z"
+        },
+        {
+            "id": "D8h1A9oJjzHOabvF2TA2E",
+            "likes": 15,
+            "name": "Nobody",
+            "page": "running",
+            "rating": 5,
+            "text": "As a soccer player, I have to run on a day to day basis. Sometimes it's difficult but still it can be easy. Our coaches make us run until we can't breathe.  Running can be therapy to me. It feels so good to go outside while you have a cold sweat and all those HORRIBLE thoughts go away. I'm used to running. Good and Bad. I love running.",
+            "accepted_at": "2022-12-17T19:44:13.355Z"
+        },
+        {
+            "id": "cQB_mHfvx3WFDfJKgNmqa",
+            "likes": 519,
+            "name": "Noah",
+            "page": "running",
+            "rating": 1,
+            "text": "Hate it because i'm fat",
+            "accepted_at": "2022-04-18T16:42:35.346Z"
+        },
+        {
+            "id": "mwRG1-2Dd1pznPVJsK2Ck",
+            "likes": 349,
+            "name": "Nae",
+            "page": "running",
+            "rating": 5,
+            "text": "Running is a powerful thing. I can help you get out of situations and make you feel free. You also feel really good after you run",
+            "accepted_at": "2023-02-18T04:34:51.210Z"
+        },
+        {
+            "id": "WB0VHG-0mFyeM74VJeKkN",
+            "likes": 15,
+            "name": "Dev ",
+            "page": "running",
+            "rating": 4,
+            "text": "We created running as part of the simulation for players to burn off energy but I could remove asthma in the next simulation ",
+            "accepted_at": "2022-11-13T03:50:55.876Z"
+        },
+        {
+            "id": "c3W1GpZSGlJj79O4etYpX",
+            "likes": 274,
+            "name": "greenpink",
+            "page": "running",
+            "rating": 2,
+            "text": "Like, it's been this long, there's been enough updates for horses and bikes and cars and trains and planes, why waste serious energy running when there are other faster and more efficients ways of navigating the map??",
+            "accepted_at": "2023-02-24T02:01:23.926Z"
+        },
+        {
+            "id": "cy2bWChjHawNKhKQ-PEdo",
+            "likes": 20,
+            "name": "sdfgh",
+            "page": "running",
+            "rating": 1,
+            "text": "Useful for running away from things, however you never need to do it, and when you do, it causes a lot of cramps and stamina loss, making it very inefficient",
+            "accepted_at": "2022-06-13T21:36:08.714Z"
+        },
+        {
+            "id": "42Fej1BaPTs9VydY1fX75",
+            "likes": 21,
+            "name": "Con818",
+            "page": "running",
+            "rating": 3,
+            "text": "My player struggles a bit with this one but will do it. Stamina is a bit low so its not very useful",
+            "accepted_at": "2022-11-13T04:17:40.235Z"
+        },
+        {
+            "id": "PJHh_S-EGs3-3RY_ngjho",
+            "likes": 105,
+            "name": "oscar",
+            "page": "running",
+            "rating": 1,
+            "text": "Running just takes too long for the mileage you're getting. Might as well take a bike. If you're looking for fitness choose a different sport, on top of being the most boring, you don't get any gains except being able to run faster which in my opinion seems like a pyramid scheme. It's just not that fun.",
+            "accepted_at": "2023-02-12T05:08:23.307Z"
+        },
+        {
+            "id": "iwZpbZGjKCgoEqzc4aWSI",
+            "likes": 37,
+            "name": "you'll never know",
+            "page": "running",
+            "rating": 5,
+            "text": "As someone who spends 2 hours, 6 days a week running for my high school cross country team, running is one of my favorite things in the world. Honestly, half of it is just the time that I get to spend with my teammates. Something that nobody realizes is that the best conversations happen during runs. I've talked about literally everything and anything with my teammates, it's almost like therapy.",
+            "accepted_at": "2022-12-23T21:28:36.900Z"
+        },
+        {
+            "id": "w9VVHBYNNvXuNxW67T5MQ",
+            "likes": 129,
+            "name": "Oliver",
+            "page": "running",
+            "rating": 1,
+            "text": "Hurts, not really that fast, so a lot of effort and for what?\n1 star for adrenaline runs, but really... Needs improvement ",
+            "accepted_at": "2022-04-24T23:14:43.709Z"
+        },
+        {
+            "id": "nL66ySUoGa2Zr3zAlTGjm",
+            "likes": 750,
+            "name": "Skip",
+            "page": "running",
+            "rating": 3,
+            "text": "Good for working out stamina but my character doesn’t need it for transportation since there have been much more efficient ways to travel.",
+            "accepted_at": "2023-02-26T18:19:38.953Z"
+        },
+        {
+            "id": "LlKpn5c9nPkCwqDfeh5TP",
+            "likes": 37,
+            "name": "Death",
+            "page": "running",
+            "rating": 2,
+            "text": "Why do we need to exercise? Why can’t we just be in shape well laying on the couch with potato chips in her mouth annoying seriously? Why can’t we not have to exercise I hate it. Why can’t we just sit all day on the couch with pizza crusts and donut crumbs on our face and we’re fat but still strong is bison",
+            "accepted_at": "2023-01-07T21:37:48.407Z"
+        },
+        {
+            "id": "Nm2jBkN6DlVMsVBOiohEG",
+            "likes": 186,
+            "name": ":)",
+            "page": "running",
+            "rating": 4,
+            "text": "Fine, but could you remove the effect of my avatar losing a lot of energy points after that?",
+            "accepted_at": "2023-02-17T20:41:29.719Z"
+        }
+    ]
+}
