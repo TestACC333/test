@@ -6,7 +6,7 @@
             "name": "Evan",
             "page": "running",
             "rating": 2,
-            "text": "Overrated. Jogging is easier and can do it for longer.",
+            "text": "fart",
             "accepted_at": "2022-04-20T18:47:53.953Z"
         },
         {
@@ -15,7 +15,7 @@
             "name": "a",
             "page": "running",
             "rating": 1,
-            "text": "Please remove this next patch, I've seen some modded versions without it and life is a lot easier. ",
+            "text": "Super Fart Bros 12355 ",
             "accepted_at": "2022-05-12T19:41:01.182Z"
         },
         {
@@ -24,7 +24,7 @@
             "name": "Czar",
             "page": "running",
             "rating": 3,
-            "text": "Fantastic while I could, but since my knee cartilage took a dump, it was short lived ",
+            "text": "Super Fart Bros 12355 ",
             "accepted_at": "2022-04-25T00:12:31.670Z"
         },
         {
@@ -33,7 +33,7 @@
             "name": "Evan",
             "page": "running",
             "rating": 3,
-            "text": "painful in the moment but does make you feel better later ",
+            "text": "Super Fart Bros 12355r ",
             "accepted_at": "2022-05-16T21:45:19.064Z"
         },
         {
@@ -42,7 +42,7 @@
             "name": "Rohin",
             "page": "running",
             "rating": 2,
-            "text": "I have Asthma so i can’t run for long distances",
+            "text": "Super Fart Bros 12355s",
             "accepted_at": "2022-04-20T17:03:05.313Z"
         },
         {
@@ -51,7 +51,7 @@
             "name": "Rose",
             "page": "running",
             "rating": 4,
-            "text": "Won races using this technique, on the downside left me sore",
+            "text": "Won races using thisSuper Fart Bros 12355eft me sore",
             "accepted_at": "2022-04-18T03:50:17.841Z"
         },
         {
@@ -60,7 +60,7 @@
             "name": "Mason",
             "page": "running",
             "rating": 3,
-            "text": "Absolutely loath while doing it, but I enjoy the burned calories.",
+            "text": "Absolutely loath while Super Fart Bros 12355 burned calories.",
             "accepted_at": "2022-04-22T14:23:09.913Z"
         },
         {
@@ -69,7 +69,7 @@
             "name": "Reid",
             "page": "running",
             "rating": 4,
-            "text": "I love running but its so tiring",
+            "text": "I love running Super Fart Bros 12355 tiring",
             "accepted_at": "2022-04-18T16:16:10.619Z"
         },
         {
